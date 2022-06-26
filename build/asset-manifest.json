@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.js": "/static/js/main.4d471731.js",
+    "static/media/Kimchi.jpg": "/static/media/Kimchi.4f5afcf42909be2c98c0.jpg",
+    "static/media/animals.png": "/static/media/animals.4a3efbf2b89f0f0306ff.png",
+    "static/media/Legal-Document.jpg": "/static/media/Legal-Document.bd2e4effec86fc56b3fb.jpg",
+    "static/media/shivjyoti.jpeg": "/static/media/shivjyoti.c24e3cd43e99f2498c6c.jpeg",
+    "index.html": "/index.html",
+    "main.4d471731.js.map": "/static/js/main.4d471731.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.4d471731.js"
+  ]
+}
